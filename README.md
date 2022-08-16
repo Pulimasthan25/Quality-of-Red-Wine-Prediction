@@ -8,7 +8,7 @@ The objective of this project is to predict the wine quality using the wine prop
 The Data set used in this project is taken from this [red wine](https://github.com/Pulimasthan25/Quality-of-Red-Wine-Prediction/blob/main/red%20wine.csv) file. 
 
 
-### Attributes
+### Variables
 __Input variables:__
 
 > * 1 - fixed acidity
@@ -25,7 +25,7 @@ __Input variables:__
 
 __Output variable:__                quality (score between 0 and 10)<br/>
 __Number of Observations:__         988<br/>
-__Number of Attributes/Variables:__ 12<br/>
+__Number of Variables:__ 12<br/>
 __Missing Values:__                 N/A<br/>
 <!--Output variable (based on sensory data):
 12 - quality (score between 0 and 10)-->
