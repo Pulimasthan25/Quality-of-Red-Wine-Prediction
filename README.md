@@ -9,7 +9,7 @@ The Data set used in this project is taken from this [red wine](https://github.c
 
 
 ### Variables
-__Input variables:__
+__Input Variables:__
 
 > * 1 - fixed acidity
 > * 2 - volatile acidity
@@ -23,7 +23,7 @@ __Input variables:__
 > * 10 - sulphates
 > * 11 - alcohol<br/>
 
-__Output variable:__                quality (score between 0 and 10)<br/>
+__Output Variable:__                quality (score between 0 and 10)<br/>
 __Number of Observations:__         988<br/>
 __Number of Variables:__ 12<br/>
 __Missing Values:__                 N/A<br/>
