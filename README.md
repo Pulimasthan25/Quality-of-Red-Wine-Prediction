@@ -22,8 +22,9 @@ __Input variables:__
 > * 9 - pH
 > * 10 - sulphates
 > * 11 - alcohol<br/>
+
 __Output variable:__                quality (score between 0 and 10)<br/>
-__Number of Observations:__         1599<br/>
+__Number of Observations:__         988<br/>
 __Number of Attributes/Variables:__ 12<br/>
 __Missing Values:__                 N/A<br/>
 <!--Output variable (based on sensory data):
