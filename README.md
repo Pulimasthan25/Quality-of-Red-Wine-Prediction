@@ -6,7 +6,7 @@
 
 The objective of this project is to predict the wine quality using the wine properties provided in the data set.
 ## Data Set
-The Data set used in this project is taken from this [red wine](https://docs.google.com/spreadsheets/d/e/2PACX-1vRUHAD31NotXun5FB69V9l_p016JEjtOlpqTZvYjlbVSFlNo6jSVfiw6BzKwCMUcP4yeLIkxTf2s_Rh/pubhtml) file. 
+The Data set used in this project is taken from this [red wine](https://docs.google.com/spreadsheets/d/e/2PACX-1vRUHAD31NotXun5FB69V9l_p016JEjtOlpqTZvYjlbVSFlNo6jSVfiw6BzKwCMUcP4yeLIkxTf2s_Rh/pubhtml) file, Which is available on Google. 
 
 
 ### Variables
